@@ -1,14 +1,3 @@
-<html>
-<title>my website</title>
-<style>
-  body{
-    background-image: url('black.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-   }                                           
-</style>
-
-
 <h1><I>BLESSINGZ TECH STORE<I></h1>
 
 <h2>Quality phones & accessories availablle for sale.</h2>
