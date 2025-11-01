@@ -2,7 +2,7 @@
 <title>my website</title>
 <style>
   body{
-    background-image: url('.jpg');
+    background-image: url('black.jpg');
     background-size: cover;
     background-repeat: no-repeat;
    }                                           
