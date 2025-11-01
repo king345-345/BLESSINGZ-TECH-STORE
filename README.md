@@ -1,4 +1,3 @@
-# BLESSINGZ-TECH-STORE
 <html>
 <title>my website</title>
 <style>
